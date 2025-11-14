@@ -1,4 +1,4 @@
-<h1 align="center">Yoganandh Rau</h1>
+<h1 align="center">Hi, I'm Yoga</h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/yogarau"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/></a>
